@@ -10,7 +10,7 @@ export default function Welcome() {
 
     // Typing text configurations
     const messages = [
-        "Hello SMKN 12 Malang",
+        "Hello SMK TELKOM MALANG",
         "Persembahan dari Jagoan Hosting",
     ];
     const typingSpeed = 100; // Speed of typing in milliseconds
